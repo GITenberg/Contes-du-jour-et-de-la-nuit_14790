@@ -1,0 +1,35 @@
+_repo: Contes-du-jour-et-de-la-nuit_14790
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maupassant, Guy de
+    alias: De Maupassant, Guy
+    birthdate: 1850
+    deathdate: 1893
+    gutenberg_agent_id: '306'
+    url: http://www.gutenberg.org/2009/agents/306
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Guy_de_Maupassant
+    - http://en.wikipedia.org/wiki/Guy_de_Maupassant
+description: ''
+gutenberg_bookshelf: FR Nouvelles
+gutenberg_issued: '2005-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14790'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Short stories, French'
+tableOfContents: Le crime au père Boniface -- Rose -- Le père -- L'aveu -- La parure
+  -- Le bonheur -- Le vieux -- Un lâche -- L'ivrogne -- Une vendetta -- Coco -- La
+  main -- Le Gueux -- Un parricide -- Le petit -- La roche aux Guillemots -- Tombouctou
+  -- Histoire vraie -- Adieu -- Souvenir -- La confession.
+title: Contes du jour et de la nuit
+url: http://www.gutenberg.org/ebooks/14790
